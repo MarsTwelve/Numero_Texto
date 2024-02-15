@@ -1,5 +1,5 @@
 version: "3.9"
 services:
   numero_texto:
-    image: num_to_txt
+    image: num_to_txt:1.0
     container_name: numero_texto
